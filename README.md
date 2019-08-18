@@ -9,4 +9,4 @@ The goal of this project is to build out a blackjack game with frontends and bac
 
 # Backends: 
 
-*[Rails API PostgresSQL](https://github.com/wley3337/blackjack-rails-api)
+* [Rails API PostgresSQL](https://github.com/wley3337/blackjack-rails-api)
