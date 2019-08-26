@@ -1,6 +1,6 @@
 # Blackjack project
 
-The goal of this project is to build out a blackjack game with frontends and backends APIs. 
+The goal of this project is to build out a blackjack game with frontends and backend APIs as I continue to grow what I know.  
 
 # Frontends:
 
